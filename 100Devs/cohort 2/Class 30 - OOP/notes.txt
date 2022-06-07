@@ -1,1 +1,10 @@
 https://www.youtube.com/watch?v=GihfY5OVDdk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=29&t=155s
+
+HOMEWORK DUE (Tues. May 3rd):
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Read / Do: JS Way Ch. 09 - https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md
+Do: 7 Codewars
+DO: FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Want To Push (Due: Tues. May 3rd)?
+Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html
