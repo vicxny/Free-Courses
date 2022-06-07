@@ -1,1 +1,1 @@
-# Free-Course
+# Free Course
