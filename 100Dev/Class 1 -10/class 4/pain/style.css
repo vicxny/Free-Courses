@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+/* header{
+  height: 100px;
+  border: 3px solid black;
+}
+
+footer{
+  height: 100px;
+  border: 3px solid black;
+}
+
+use , to combine them */
+
+header, footer{
+  height: 100px;
+  border: 3px solid black;
+  clear: both;
+}
+
+section{
+  height: 300px;
+  width: 33.33%
+  border: 2px solid black;
+  float: left;
+}

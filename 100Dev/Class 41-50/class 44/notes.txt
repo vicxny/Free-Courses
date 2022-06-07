@@ -1,0 +1,58 @@
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/backend-crash-course-100devs/live (remove /live for a non auto-advancing  copy)
+
+Code:
+https://github.com/100devs/binary-upload-boom
+
+:point_right_tone4: Submit your 10 Codewars Repo here: https://forms.gle/cJiie5s85jmxLKet8
+
+:calendar_spiral: Homework Due Tuesday (May 11th):
+Please,
+Finish: TEAM PROJECT
+Finish: HITLIST
+Please research the following methods:
+map
+reduce
+filter
+forEach
+sort
+slice
+pop
+shift
+push
+unshift
+includes
+indexOf
+every
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate), and give three examples of it in action!
+
+Questions to practice:
+
+One:
+Given a non-empty array of integers, return the result of multiplying the values together in order. Example:
+[1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
+
+Two:
+You will be given an array of all the family members' ages, in any order. The ages will be given in whole numbers, so a baby of 5 months, will have an ascribed 'age' of 0. Return a new array with [youngest age, oldest age, difference between the youngest and oldest age].
+
+Three:
+Sum all the numbers of the array except the highest and the lowest element (the value, not the index!).
+Example:
+[ 6, 2, 1, 8, 10 ] => 16
+[ 1, 1, 11, 2, 3 ] => 6
+
+5 codewars tagged as arrays (minimum)
+
+Add what you learn to an interview deck on Anki!
+
+Please take the time to work on your 100 Hours Project, Hitlist, and working through the methods I shared above!  I can't stress how important it is to put the time into researching these methods and Knowing Them WELL! 
+
+Homework Due Tuesday (May 18th):
+Review your methods and the questions assigned last week. :point_right_tone4: ANKI ALERT :rotating_light: 
+Start React:
+Read - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 (old, weird, just get through it)
+Watch  - https://www.youtube.com/watch?v=w7ejDZ8SWv8 (2 hours - just get through it)
+Do - https://egghead.io/courses/the-beginner-s-guide-to-react (2-3 hours - just get through it)
+
+
+:fire: Let's Build An App From Scratchish - BACKEND REVIEW SUNDAY 1:00pm ET :fire:

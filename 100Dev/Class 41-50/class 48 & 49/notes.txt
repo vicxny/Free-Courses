@@ -1,0 +1,16 @@
+ Code:
+https://github.com/100devs/react-simple-vomit
+https://github.com/100devs/react-todo-list-just-add
+Submit your MEGA MONTH JUNE WORK here: https://forms.gle/sdAsSPgePXquUHKRA
+
+:point_right_tone4:  Homework DUE Today:
+The Ultimate Guide to JavaScript Algorithms Courses - complete Beginner Algorithms(https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+Answer questions at end of today's slides
+I'll ask for you to submit this after class
+
+  Homework (you will submit Tuesday):
+The Ultimate Guide to JavaScript Algorithms Courses -
+complete Beginner Algorithms(https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+Answer React Questions at the end of the slides
+Comment https://github.com/100devs/react-simple-vomit 
+& https://github.com/100devs/react-todo-list-just-add

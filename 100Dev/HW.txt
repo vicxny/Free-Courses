@@ -1,0 +1,349 @@
+https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3 
+https://www.twitch.tv/learnwithleon/videos?filter=archives&sort=time 
+
+#100Devs HW
+1.	For Homework (Due Thursday - Nov. 5th): 
+Watch: How to study for exams - Evidence-based revision tips 
+Watch: How to Study for Exams - Spaced Repetition | Evidence-based revision tips Complete: Learning How to Learn
+
+2.	Homework (Due Thursday - Nov. 5th): 
+Old: Watch: https://youtu.be/ukLnPbIffxE 
+Watch: https://youtu.be/Z-zNHHpXoMM Complete: https://www.coursera.org/learn/learning-how-to-learn 
+New: Read: https://learn.shayhowe.com/html-css/ 
+Build: HTML for BBC Website (just what is in the attached image)
+
+3.	Homework (Due Thursday - Nov. 12th): 
+Do: Finish Simple Site Lab from class-03 
+Read: http://learnlayout.com/ 
+Do: https://www.typingtest.com/ (Five Minute Test) 
+Do: Practice Typing - https://www.keybr.com/
+
+4.	Homework (Due Thursday - Nov. 12th): 
+Do: Complete The Three Layouts (last few slides) 
+Read: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+
+5.	Homework (Due Thursday - Nov. 19th): 
+Do: Make 15 minutes of pain responsive 
+Read: http://learnlayout.com/ 
+Read: https://learn.shayhowe.com/advanced-html-css/ 
+Do: Practice Typing - https://www.keybr.com/
+
+6.	Homework (Due Thursday - Nov. 19th): 
+OLD: Do: Make 15 minutes of pain layout responsive 
+Read: http://learnlayout.com/ 
+Read: https://learn.shayhowe.com/advanced-html-css/
+Do: Practice Typing - https://www.keybr.com/ NEW:
+Do: http://flexboxfroggy.com/ 
+
+7.	Homework (Due Tuesday - Nov. 24th): 
+Watch: Independence Day Do: Layout Assignment (will share Thursday)
+Make the 15 minutes of pain layout have three media queries! 
+Read: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Do: http://flexboxfroggy.com/ Watch (by next week): Independence Day
+Do: The 3 layouts we did in class
+Do: The Level Ground & Source Layouts in the homework-layout-photos 
+Push?: Do Push work Homepage and add media queries to other layouts
+
+8.	Homework (Due Tuesday - Dec. 1st): Do: Real Layout Assignments
+JavaScript Crash Course For Beginners
+
+9.	Homework (Due Tuesday - Dec. 8th): Do: Plan out your networking! 
+Read: https://javascript.info/variables 
++ Tasks Read: https://javascript.info/function-basics 
++ Tasks Do: Delete the JS and do it again for all assignments
+
+10.	Homework (Due Tuesday - Dec. 8th): 
+Coding Challenge (due Thursday): Make a temperature converter that goes from Fahrenheit to Celsius! 
+Homework: Read: https://javascript.info/function-expressions 
++ Tasks Read: https://javascript.info/arrow-functions-basics 
++ Tasks Read:https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md 
+Do: Delete the JS and do it again for all assignments
+
+11.	Homework (Due Tuesday - Dec. 15th): COMMENT OUT YOUR JS TYPE IT ALL OUT AGAIN WITHOUT LOOKING PEAK 
+IF YOU HAVE TOO REPEAT UNTIL YOU DO NOT HAVE TO PEAK DELETE YOUR JS ENTIRELY AND DO IT AGAIN THEN DO IT AGAIN BUT CHANGE SOMETHING!
+
+12.	Homework (Due Thursday - Dec. 15th): 
+Do: Setup your portfolio Do: Draft your proposal / contract
+Coding Challenge (due Thursday): Create a function that takes in 3 numbers. 
+The function should return the first number multiplied by the second and then subtract the third. 
+Console.log() the resulting value 
+Homework (start due Thursday): Do: Setup Your Portfolio 
+Do: Setup Your Proposal & Proposal & Contract Do: Pick A Vertical and Start Reaching Out
+
+13. Coding Challenge (due Saturday): Finish the Bring It On Again Challenge! 
+Homework (Due Tuesday - Jan 5th, 2021): Will be released during office hours on Saturday!
+Break Work (Week 01): Read - https://www.poetryfoundation.org/poems/51642/invictus
+Read - https://github.com/bpesquet/thejsway (3, 2, 1... Code! through Write Functions chapters 1-5) 
+Read - http://eloquentjavascript.net/3rd_edition/ (Chapters 1 - 3) 
+Do - https://www.codecademy.com/learn/introduction-to-javascript (1-6) 
+Watch - https://youtu.be/SWYqp7iY_Tc 
+Extra Reading: https://jwiegley.github.io/git-from-the-bottom-up/ 
+Break Work (Week 02): Read -
+Read - https://github.com/bpesquet/thejsway/ (Create your first objects -through- Understand object-oriented programming) (Chapters 6 - 9)
+Read - http://eloquentjavascript.net/3rd_edition/ (Chapters 4-6) 
+Do - https://javascript30.com/ (1&2) 
+Do - Host your portfolio Build - A horoscope app where the user can enter their birthday and get their horoscope. 
+There should be a minimum 12 unique horoscopes. 
+Build - A simple calculator that has two inputs and returns the result of +,-,/,* somewhere in the DOM
+
+14. Homework:  
+Please create a function that takes in two numbers.
+Print to the console the division of these two numbers rounded down. 
+
+15. Homework (Due Thursday - Jan. 14th, 2021):
+Review Objects Reading!
+Peek ahead at the rest of the Array slides and review your objects reading including: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
+
+16. Homework (Due Tuesday - Jan. 19th, 2021): 
+Read: https://javascript.info/array-methods 
+Research: Array Methods Do: JS30 Day 04 Array Cardio 
+Read: Ahead on slides and problems (try them too) 
+Read: https://javascript.info/object
+
+17.Homework (Due Thursday - Jan. 21st, 2021):
+Read: https://javascript.info/array-methods
+Research: Array Methods
+Do: JS30 Day 04 Array Cardio
+Read: https://javascript.info/object
+Do: All the tasks 
+Do: Three Codewars Fundamentals
+
+18.Homework (Due Tuesday - Jan. 26th, 2021):
+Finish: NASA Photos API Read: Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219 
+Watch / Do: https://youtu.be/PFmuCDHHpwk 
+Watch: https://youtu.be/0fKg7e37bQE​
+Do: Four Codewars Fundamentals 
+
+Want to push?: Read and do the tasks: https://javascript.info/ Whole Chapter - Objects: the basics 
+Complete submit this project: https://github.com/leonnoel/100devs-calculator
+
+19.Homework (Due Thursday - Jan. 28th, 2021):
+Finish: NASA Photos API
+Read: Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Watch: https://youtu.be/0fKg7e37bQE​
+Do: Four Codewars Fundamentals
+
+Want to push?:
+Read and do the tasks: https://javascript.info/ Whole Chapter - Objects: the basics 
+Complete and Submit this project: https://github.com/leonnoel/100devs-calculator
+
+20. Homework (Due Today- SUBMISSION WILL OPEN AFTER CLASS): 
+Finish: NASA Photos API 
+Read: Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219 
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Watch: https://youtu.be/0fKg7e37bQE​ 
+Do: Four Codewars Fundamentals 
+ 
+Want to push?:
+Read and do the tasks: https://javascript.info/ Whole Chapter - Objects: the basics 
+Complete and Submit this project: https://github.com/leonnoel/100devs-calculator 
+
+21. Homework due next Thursday (Feb. 4 th):
+Make the cocktailDB api work with spaces between the names!
+Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis) 
+Build one additional app that takes a response from one API and uses it to get data from another
+Do: Five Codewars
+
+Homework due next Tuesday:
+Intro to Git and Github: https://aka.ms/ads/Github
+Try getting Git Installed, here are some resources (we'll also go into more detail during our office hours):
+https://github.com/git-guides/install-git 
+https://www.theodinproject.com/courses/foundations/lessons/setting-up-git 
+(If on Windows, please use Git Bash and look into setting up WSL: https://ubuntu.com/wsl)
+Take a peek at this Github introduction: https://aka.ms/ads/Github 
+Be sure to give your resume a pass through: https://cvcompiler.com/ 
+
+22.Intro to Git and Github: https://aka.ms/ads/Github 
+
+Want to push? 
+Make a rotating list of drinks (an automatic carousel) from the cocktailDB
+Make the NASA API handle all the data types including video
+Add an API to your portfolio
+
+23.Pushed?
+Build a slot machine: https://github.com/learnwithleon/100devs-slot-machine 
+HOMEWORK DUE (Tues. Feb 23rd):
+DO: Catch Up
+DO: Intro JS Course - https://www.codecademy.com/learn/introduction-to-javascript  (30 Hours)
+DO: Professional Checklist (Will be shared after class)
+
+24.HOMEWORK DUE (Tues. March 2nd): 
+Watch / Do: https://youtu.be/PFmuCDHHpwk 
+Read / Do: JS Way Ch. 09 (https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md) 
+Read / Do: Eloquent JS Ch. 06 (https://eloquentjavascript.net/06_object.html) 
+Do: 7 Codewars 
+DO: Professional Checklist (Will be shared after class)
+
+25.HOMEWORK DUE (Tues. March 2nd):
+Watch / Do: https://youtu.be/PFmuCDHHpwk 
+Read / Do: JS Way Ch. 09 (https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md )
+Read / Do: Eloquent JS Ch. 06 (https://eloquentjavascript.net/06_object.html )
+Do: Make the pokemon API do something! 
+Do: 7 Codewars
+DO: Professional Checklist (Will be shared during Friday's Class)
+
+26. HOMEWORK DUE (TODAY):
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Read / Do: JS Way Ch. 09 (https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
+Read / Do: Eloquent JS Ch. 06 (https://eloquentjavascript.net/06_object.html)
+Do: 7 Codewars
+
+27.HOMEWORK DUE (Tues. March 9th) :
+Read / Do: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+Watch / Do: https://youtu.be/vn3tm0quoqE
+TYPE OUT ALL THE EXAMPLES!!!
+
+Want to Push?
+Read / Do: https://javascript.info/async
+
+28. HOMEWORK DUE TODAY :
+Read / Do: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+Watch / Do: https://youtu.be/vn3tm0quoqE
+TYPE OUT ALL THE EXAMPLES!!!
+
+Want to Push?
+Read / Do: https://javascript.info/async
+
+HOMEWORK DUE (March 16th):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+READ: Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+WATCH: Node.js Crash Course (just get through it) - https://youtu.be/fBNz5xF-Kx4
+
+29.HOMEWORK DUE (March 16th):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+READ: Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+WATCH: Node.js Crash Course (just get through it) - https://youtu.be/fBNz5xF-Kx4
+
+30.HOMEWORK DUE (Today):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+READ: Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+WATCH: Node.js Crash Course (just get through it) - https://youtu.be/fBNz5xF-Kx4
+
+HOMEWORK DUE (Thursday):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Do: Make node-backend-simple-json more readable
+Do: Make a coinflip game where the randomization happens server side
+
+31.HOMEWORK DUE (Tuesday):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Do: Make node-backend-simple-json more readable
+Do: Make a coinflip game where the randomization happens server side
+Watch: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+Watch: https://www.youtube.com/watch?v=cCOL7MC4Pl0
+Do: https://zellwk.com/blog/crud-express-mongodb/ (SUPER IMPORTANT)
+
+32.HOMEWORK DUE (Thursday):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open - https://fullstackopen.com/en/part3/node_js_and_express)
+Do: Make Your Own API and Push To Heroku
+
+33. HOMEWORK DUE (Today):
+Do: Make Your Own APP and Push To Heroku 
+Submit here please: https://github.com/100devs/simple-express-app-submission
+
+:calendar_spiral: HOMEWORK DUE (Thursday):
+Do: Make aAFullstack Todo List and Push To Heroku
+
+34. HOMEWORK DUE (Todayish):
+Do: Make A Fullstack Todo List and Push To Heroku
+ HOMEWORK DUE (Tuesday):
+Do: Make A Fullstack Todo List and Push To Heroku
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new on Tuesday! 
+
+36.For today, please:
+
+Comment the Todolist Code: https://github.com/100devs/todolist-live-review
+Fork it, comment every line, and submit a PR please
+Here is the VOD where we code it from scratch: https://www.twitch.tv/videos/976816027
+
+Read Zell's REST API article: https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
+
+Watch DevMarketer's MVC video: https://youtu.be/1IsL6g2ixak
+
+For Homework, please:
+
+Finish Brad's Video (just get through it - it's a beast): https://youtu.be/SBvmnHTQIPY
+
+Dream of a MVC Todolist with Authentication (seriously - daydream if it doesn't come up in your actual dreams)
+
+Links from today:
+Slides: https://slides.com/leonnoel/100devs-study-time/live
+
+37. HOMEWORK DUE (Todayish):
+Do: Finish Brad's Video (just get through it - it's a beast): https://youtu.be/SBvmnHTQIPY
+Do: Dream of a MVC Todolist with Authentication (seriously - daydream if it doesn't come up in your actual dreams)
+Homework Due (Tuesday - Sunday 1:00pm EST for the contest)
+Create a MVC lecture using this code: https://github.com/100devs/todo-mvc
+Best slides / lecture submitted by 1:00pm EST wins an AMAZING PRIZE PACKAGE! 
+Fork the repo and submit a PR with your slides or links to slides/lecture in the readme
+
+38-41. No Homework
+
+42-43. Homework Due Tuesday (May 4th):
+Please,
+Finish: TEAM PROJECT
+Read this: https://javascript.info/array-methods
+Read this: https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/
+Watch this: https://youtu.be/R8rmfD9Y5-c
+Add what you learn to an interview deck on Anki
+5 codewars tagged as arrays (minimum)
+
+Read this: https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961
+
+44.Homework Due Tuesday (May 18th):
+Review your methods and the questions assigned last week. :point_right_tone4: ANKI ALERT :rotating_light: 
+Start React:
+Read - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 (old, weird, just get through it)
+Watch  - https://www.youtube.com/watch?v=w7ejDZ8SWv8 (2 hours - just get through it)
+Do - https://egghead.io/courses/the-beginner-s-guide-to-react (2-3 hours - just get through it)
+
+
+45.Homework Due Tuesday (May 25th):
+
+More React Work Coming Thursday!
+
+Please research the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 
+
+46.Homework Due Tuesday:
+Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html
+Mentally beak your favorite website down into reusable components! 
+
+47-49.Homework DUE THIS THURSDAY:
+The Ultimate Guide to JavaScript Algorithms Courses - complete Beginner Algorithms(https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+Answer questions at end of today's slides
+
+50.Homework:
+Please review your methods and record yourself practicing tonight's method on 5 Codewars and 1 Leetcode! 
+Finish reviewing the slides: https://slides.com/leonnoel/interview-secrets-100devs
+
+51-52.Homework (Dues Tuesday):
+Look at what is possible here: https://aka.ms/ads/AI_Services
+
+53-64. Don't Sleep on THE BANK (https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit?usp=sharing)

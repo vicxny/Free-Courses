@@ -1,0 +1,11 @@
+Class-51 of #100Devs starts in 45 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+Code for today:
+https://github.com/100devs/hotdog-not-hotdog
+https://github.com/100devs/ms-cv-template
+https://github.com/100devs/how-is-interview-going
+https://github.com/100devs/spot-the-brand
+
+Homework (Dues Tuesday):
+Look at what is possible here: https://aka.ms/ads/AI_Services
+Build something new with the code shared above 

@@ -1,0 +1,13 @@
+https://www.twitch.tv/videos/934732630
+https://www.youtube.com/watch?v=UbY5ni9BkM0
+
+
+Here are the slides if you would like to follow along:
+https://slides.com/leonnoel/100devs-javascript-oop-part-2
+(remove /live for a non auto-advancing  copy)
+
+✅ HOMEWORK DUE (TODAY):
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Read / Do: JS Way Ch. 09 (https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
+Read / Do: Eloquent JS Ch. 06 (https://eloquentjavascript.net/06_object.html)
+Do: 7 Codewars

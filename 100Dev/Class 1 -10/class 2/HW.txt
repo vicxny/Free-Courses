@@ -1,0 +1,25 @@
+
+<!-- html + tab -->
+
+<!-- ctrl+comma
+install
+open in browser
+from Magi -->
+
+
+<!-- ctrl and click or using end key to skip to the end-->
+
+For Homework (Due Thursday - Nov. 5th):
+Watch: https://youtu.be/ukLnPbIffxE
+Watch: https://youtu.be/Z-zNHHpXoMM
+Complete: https://www.coursera.org/learn/learning-how-to-learn
+
+
+Homework (Due Thursday - Nov. 5th):
+Old:
+Watch: https://youtu.be/ukLnPbIffxE
+Watch: https://youtu.be/Z-zNHHpXoMM
+Complete: https://www.coursera.org/learn/learning-how-to-learn
+New:
+Read: https://learn.shayhowe.com/html-css/
+Build: HTML for BBC Website (just what is in the attached image)

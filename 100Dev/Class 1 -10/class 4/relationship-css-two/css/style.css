@@ -1,0 +1,23 @@
+/* NO classes or IDs */
+/* Please Make only World and Zebra Blue */
+/* inside section direct parent and child*/
+section > h2 {
+  color: blue;
+}
+/* Please Make only Zebra Purple */
+section > h2 + h2 {
+  color: purple;
+}
+
+/* Please keep Hufflepuff Gold and make ONLY Unicorn Gray  */
+section article h2{
+  color: gray;
+}
+
+/* cascade and the second new rule override */
+
+/* Please Make only Hufflepuff Gold */
+/* parent is article */
+article > h2 + h2 {
+  color: purple;
+}

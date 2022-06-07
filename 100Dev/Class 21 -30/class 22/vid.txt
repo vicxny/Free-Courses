@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=yEfvsafFVXQ 
+
+https://api.nasa.gov/ 
+
+Your API key for bob@hotmail.com is:
+
+DzAstWN8EY2GFylQcsB2YVzDT8Gjfd8ZIZ2Q9EW0
+
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=DzAstWN8EY2GFylQcsB2YVzDT8Gjfd8ZIZ2Q9EW0
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: bob@hotmail.com
+Account ID: 00906288-38dd-4141-b2b3-e3713042b5a3
+
+Query Parameters
+&date=${choice}
+
+
+Local Storage
+
+localStorage.setItem('bestFriend','bob') > Put item into local storage
+localStorage.getItem('bestFriend')
+localStorage.removeItem('bestFriend')
+localStorage.clear() > Clear the storage
+
+This is located in the application local storage
+
+A Card Game
+https://deckofcardsapi.com/ 

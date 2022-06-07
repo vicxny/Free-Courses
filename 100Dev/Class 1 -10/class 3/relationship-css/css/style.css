@@ -1,0 +1,16 @@
+
+/* purple world and zebra */
+section > h2{
+  color: purple;
+  font-size: 40px;
+}
+
+/* Unicorn and Duck Red */
+article h2{
+  color: red;
+}
+
+/* Just Unicorn Gold */
+section article h2{
+  color: gold;
+}

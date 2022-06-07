@@ -1,0 +1,33 @@
+/* Please make "This is an ad..." blue, but make sure it is specific enough that you could add other h3's somewhere eles in the document. */
+#rugratsWildThornberrysBestCrossOverAllTime .extraExtraReadAllAboutIt h3{
+  color: blue;
+}
+/* Please make "I like turtles." red */
+#chunkyMilk  h2{
+  color: red;
+}
+/* Please select "Hello, world!" with the highest level of specificity possible*/
+ html body header.top + section#rugratsWildThornberrysBestCrossOverAllTime h2{
+  color: green !important;
+ }/* section is the parent of h2
+ the header is sibling with the section
+ body is the parent of header
+ html is the parent of body*/
+
+/* Please select "Let's get down to business..." with the highest level of specificity possible */
+ html body header.top+section#rugratsWildThornberrysBestCrossOverAllTime+section#chunkyMilk h2+p.passTheRemoteturtles.turtles
+
+
+
+/* two classes that are sibling "passTheRemote turtles"
+p is the sibling of h2
+h2 is a child of section with id of chunkyMilk
+the section is a sibling of another section with the id of rugratsWildThornberrysBestCrossOverAllTime
+this section is also the sibling of the header with class top
+body is the parent of the header
+the body is the sibling of head which parent is html */
+
+
+/* parent child is all child inside parent
+parent > sibling is select direct descendent
+sibling + sibling is select next sibling */

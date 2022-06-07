@@ -1,0 +1,6 @@
+header nav
+
+
+main
+section with image
+section with explanation

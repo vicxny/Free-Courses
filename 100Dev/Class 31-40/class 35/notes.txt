@@ -1,0 +1,33 @@
+Class-35 of #100Devs starts in 34 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+https://www.youtube.com/watch?v=2vd7v7NhMVU
+https://www.twitch.tv/videos/971827738?filter=archives&sort=time
+
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/100devs-todo-list/live (remove /live for a non auto-advancing  copy)
+
+Our classroom: https://live.remo.co/e/100devs-classroom
+
+Code for today: https://github.com/100devs/todo-list-express
+
+The last #100Devs class can be found here: https://www.twitch.tv/videos/969354935
+
+Front-end Crash Course can be found here: https://www.twitch.tv/videos/949278313
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+
+:calendar_spiral: HOMEWORK DUE (Todayish):
+Do: Make A Fullstack Todo List and Push To Heroku
+
+HOMEWORK DUE (Today):
+Do: Make Your Own APP and Push To Heroku 
+Submit here please: https://github.com/100devs/simple-express-app-submission
+
+:calendar_spiral: HOMEWORK DUE (Tuesday):
+Do: Make A Fullstack Todo List and Push To Heroku
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new on Tuesday! 
+
+Here is the vod: https://www.twitch.tv/videos/976816027
+
+And here is the code: https://github.com/100devs/todolist-live-reviews

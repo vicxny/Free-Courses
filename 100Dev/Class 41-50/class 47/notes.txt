@@ -1,0 +1,21 @@
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/100devs-see-react/live (remove /live for a non auto-advancing  copy)
+
+Code:
+https://github.com/100devs/react-simple-vomit
+https://github.com/100devs/react-todo-list-just-add
+
+
+ Submit your MEGA MONTH JUNE WORK here: https://forms.gle/sdAsSPgePXquUHKRA
+
+ Homework DUE THIS THURSDAY:
+The Ultimate Guide to JavaScript Algorithms Courses - complete Beginner Algorithms(https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+Answer questions at end of today's slides
+
+ MEGA MONTH JUNE - Interview Practice Friday 
+
+Submit your MEGA MONTH JUNE WORK here: https://forms.gle/sdAsSPgePXquUHKRA
+
+  Homework DUE THIS THURSDAY:
+The Ultimate Guide to JavaScript Algorithms Courses - complete Beginner Algorithms(https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+Answer questions at end of today's slides
+Comment https://github.com/100devs/react-todo-list-just-add

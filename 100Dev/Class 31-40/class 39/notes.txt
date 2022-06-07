@@ -1,0 +1,15 @@
+Class-39 of #100Devs starts in 50 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+Code for during class: https://github.com/leonnoel/todo-mvc-auth-microsoft
+
+Code for after class: https://github.com/100devs/todo-mvc-auth-microsoft
+
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/100devs-todo-list-microsoft-part2/live (remove /live for a non auto-advancing  copy)
+
+The last #100Devs class can be found here: https://www.twitch.tv/videos/986525523
+
+Front-end Crash Course can be found here: https://www.twitch.tv/videos/949278313
+
+Code from today: https://github.com/100devs/todo-mvc-auth-microsoft
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c

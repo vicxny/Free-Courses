@@ -1,0 +1,29 @@
+
+Class-34 of #100Devs starts in 55 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+https://www.youtube.com/watch?v=pPZ2HhUUuwI
+
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/100devs-more-crud/live (remove /live for a non auto-advancing  copy)
+
+Code for today: https://github.com/100devs/rap-names-express
+
+The last #100Devs class can be found here: https://www.twitch.tv/videos/963048952
+
+Front-end Crash Course can be found here: https://www.twitch.tv/videos/949278313
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+⭐️ HOMEWORK DUE (Today):
+Do: Make Your Own APP and Push To Heroku 
+Submit here please: https://github.com/100devs/simple-express-app-submission
+
+:calendar_spiral: HOMEWORK DUE (Thursday):
+Do: Make aAFullstack Todo List and Push To Heroku
+
+ HOMEWORK DUE (Today):
+Do: Make Your Own APP and Push To Heroku 
+Submit here please: https://github.com/100devs/simple-express-app-submission
+
+:calendar_spiral: HOMEWORK DUE (Thursday):
+Do: Make A Fullstack Todo List and Push To Heroku

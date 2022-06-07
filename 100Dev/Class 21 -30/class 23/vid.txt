@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=Iq3ipsUAfzE 
+
+
+HOMEWORK DUE (Tues. Feb 23rd):
+DO: TAKE A BREAK
+DO: Catch Up
+DO: Intro JS Course - https://www.codecademy.com/learn/introduction-to-javascript (30 Hours)
+DO: Professional Checklist (Will be shared during Fridays Class)
+
+
+https://www.dnd5eapi.co/docs/
+
+
+Local Storage
+localStorage.setItem('bestFriend','bob') > Put item into local storage
+localStorage.getItem('bestFriend')
+localStorage.removeItem('bestFriend')
+localStorage.clear() > Clear the storage
+
+https://openlibrary.org/dev/docs/api/books

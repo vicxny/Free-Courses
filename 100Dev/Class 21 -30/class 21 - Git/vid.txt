@@ -1,0 +1,57 @@
+https://www.youtube.com/watch?v=ljdyXldzBKA 
+
+Try getting Git Installed, here are some resources (we'll also go into more detail during our office hours):
+https://github.com/git-guides/install-git
+https://www.theodinproject.com/courses/foundations/lessons/setting-up-git
+(If on Windows, please use Git Bash and look into setting up WSL: https://ubuntu.com/wsl)
+
+Take a peek at this Github introduction: https://aka.ms/ads/Github
+
+Intro to Git and Github: https://aka.ms/ads/Github
+
+
+Tips
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=local_repo 
+https://rogerdudler.github.io/git-guide/ 
+
+https://www.youtube.com/watch?v=qdwWe9COT9k 
+https://www.youtube.com/watch?v=USjZcfj8yxE 
+
+
+common commands
+pwd(print working director) show where you are
+mkdir(make director) create folder
+cd(change directory) move to different folder
+cd .. goes up a folder
+cd ~ go back to home folder
+touch create a file
+ls shows you all the files in a folder
+ls -l shows you all the files in a filder with more info
+ls -la shows you all the files in a folder including hidden and committed
+rm removes a file
+rm -r removes a folder
+rm -rf removes everything even protected files -be careful
+clear clears what is currently being displayed
+code opens vs with the folder
+
+
+git init Creates a special folder to hold all of your snapshots
+git add Adds file to staging area(not yet in that special folder)
+git add *html Adds all html files to staging area(not yet in that special folder)
+git add . Adds everything to the staging area (not yet in that special folder) !
+git status Shows everything in staging area (not yet in that special folder)
+git rm --cached index.html Removes index.html from the staging area (not yet in that special folder)
+
+git commit Adds everything in staging to the special folder as snapshot (don't use)
+if stuck in VIM
+i > type: your message > escape >type: wq >enter
+
+git commit -m "your message" Adds everything in staging to the special folder as a snapshot !
+
+git branch -M main Changes name of staging area to main
+
+branches
+git branch Creates a new branch for you to make changes on without affecting the rest of your code
+git checkout Moves you to new branch where you can make chanhes without affecting the rest of your code
+git checkout main Moves you back to main branch
+git merge Adds changes from other branch to main

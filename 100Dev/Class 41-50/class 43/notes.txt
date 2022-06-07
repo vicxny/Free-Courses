@@ -1,0 +1,6 @@
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/backend-crash-course-100devs/live (remove /live for a non auto-advancing  copy)
+
+Code:
+https://github.com/100devs/rap-names-review
+https://github.com/100devs/todo-mvc-auth-local
+https://github.com/100devs/binary-upload-boom

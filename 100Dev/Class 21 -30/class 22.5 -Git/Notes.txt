@@ -1,0 +1,44 @@
+https://www.twitch.tv/videos/903503172 
+1:22:00
+
+How to submit your code for review:
+
+-Fork and clone this repo
+Fork is to create in personal git account and clone is for PC
+There is two ways to clone 
+1. Open with github desktop
+2. pwd(print working director) show where you are
+cd to go to folder
+ls to check
+git clone  Add the url after to clone
+
+
+-Create a new branch called answer
+git branch answer To create branch called answer
+git status To see which branch you on
+
+
+-Checkout answer branch
+git checkout answer To go to answer branch
+git status
+
+
+-Push to your fork
+paste files to folder 
+git status 
+git add . Add to staging area only files in the folder
+git commit -m "Complete project for Review" This is to snapshot file/save the file
+git status To check if commit worked
+git push To push it to github
+
+
+-Issue a pull request
+Your pull request description should contain the following:
+(1 to 5 no 3) I completed the challenge
+(1 to 5 no 3) I feel good about my code
+Anything specific on which you want feedback!
+
+Go to you account and change to answer branch to see changes
+Pull Request to leave comments
+
+

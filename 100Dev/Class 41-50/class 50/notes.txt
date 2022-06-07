@@ -1,0 +1,17 @@
+Class-50 of #100Devs starts in 45 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+:white_check_mark:  Please check-in by liking and retweeting this tweet before class: https://twitter.com/leonnoel/status/1407451253827784715
+
+Here are the slides if you would like to follow along: https://slides.com/d/Cr6ALrg/live
+
+Don't Sleep on THE BANK (https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit?usp=sharing)
+
+Please don't forget your React reading, networking, codewars, and methods review! 
+
+:calendar_spiral: Homework:
+Shared after class!
+:star: Homework:
+Please review your methods and record yourself practicing tonight's method on 5 Codewars and 1 Leetcode! 
+Finish reviewing the slides: https://slides.com/leonnoel/interview-secrets-100devs
+
+If not, please put some effort into practicing the interview methods we learned last class tonight. Record yourself and figure out your quirks! Please finish: The Ultimate Guide to JavaScript Algorithms Courses (https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms) if you have not yet. Continue to put time into your 100hours project and premium apps due next week! 

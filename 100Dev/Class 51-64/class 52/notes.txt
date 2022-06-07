@@ -1,0 +1,12 @@
+Class-52 of #100Devs starts in 32 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+Code for today:
+https://github.com/100devs/hotdog-not-hotdog
+https://github.com/100devs/ms-speech-translator
+https://github.com/100devs/ms-text-sentiment
+
+If you never heard of Hot Dog Not Hot Dog: https://youtu.be/vIci3C4JkL0
+
+:calendar_spiral:  Homework (Dues Tuesday):
+Look at what is possible here: https://aka.ms/ads/AI_Services
+Build something new with the code shared above

@@ -1,0 +1,19 @@
+https://www.twitch.tv/videos/943445771
+https://www.youtube.com/watch?v=urjSM4lE6GQ
+
+
+HOMEWORK DUE TODAY :
+Read / Do: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+Watch / Do: https://youtu.be/vn3tm0quoqE
+TYPE OUT ALL THE EXAMPLES!!!
+
+Want to Push?
+Read / Do: https://javascript.info/async
+
+HOMEWORK DUE (March 16th):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+READ: Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+WATCH: Node.js Crash Course (just get through it) - https://youtu.be/fBNz5xF-Kx4
+
+https://www.youtube.com/watch?v=QoweoDsi5ZI

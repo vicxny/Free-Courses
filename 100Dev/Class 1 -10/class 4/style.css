@@ -1,0 +1,11 @@
+p{
+  color: red;
+  font-weight: bold;
+}
+
+/* p is the selector
+set is the declaration inside declaration block
+whole thing called a rule
+bold is the value
+p is the selector
+color is property */

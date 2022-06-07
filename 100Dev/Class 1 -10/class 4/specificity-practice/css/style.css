@@ -1,0 +1,24 @@
+/* Please Make only Rhino and Zebra Blue */
+/* can use class or the id */
+.fourLegs{
+  color: blue;
+}
+/* or */
+.top h2{
+  color: blue;
+}
+
+/* Please Make only Hufflepuff Gold */
+/* can use id or class */
+#bestHouse{
+  color: gold;
+}
+
+/* Please select Duck with the highest level of specificity possible */
+html body h1#hi + section.top + section.middle + article.areDucksDinosaurs h2.likesToQuack.fight1Or100{
+  color: purple !important;
+}
+/* Please select Rhino with the highest level of specificity possible */
+html body h1#hi + section.top h2#rhino{
+  color: gray;
+}

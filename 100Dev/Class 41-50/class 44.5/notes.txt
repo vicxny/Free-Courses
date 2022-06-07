@@ -1,0 +1,12 @@
+Please take the time to work on your 100 Hours Project, Hitlist, and working through the methods I shared above!  I can't stress how important it is to put the time into researching these methods and Knowing Them WELL! 
+
+Homework Due Tuesday (May 18th):
+Review your methods and the questions assigned last week. :point_right_tone4: ANKI ALERT :rotating_light: 
+Start React:
+Read - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 (old, weird, just get through it)
+Watch  - https://www.youtube.com/watch?v=w7ejDZ8SWv8 (2 hours - just get through it)
+Do - https://egghead.io/courses/the-beginner-s-guide-to-react (2-3 hours - just get through it)
+Also, if able, please get some movement in as the next month or two will require a lot of hunkered down coding time! I've been enjoying this mobility routine:  https://youtu.be/SsT_go-oCcQ
+
+
+:fire: Let's Build An App From Scratchish - BACKEND REVIEW SUNDAY 1:00pm ET :fire:

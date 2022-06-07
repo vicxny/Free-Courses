@@ -1,0 +1,37 @@
+Homework (Due Thursday - Nov. 19th):
+OLD:
+Do: Make 15 minutes of pain responsive
+Read: http://learnlayout.com/
+Read: https://learn.shayhowe.com/advanced-html-css/
+Do: Practice Typing - https://www.keybr.com/
+NEW:
+Do: http://flexboxfroggy.com/
+
+Homework (Due Tuesday - Nov. 24th):
+Watch: Independence Day
+Do: Layout Assignment (will share Thursday)
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+html{
+ font-size: 62.5%;
+}
+
+p{
+ Font-size: 1 rem:
+}
+
+Media Queries
+@media screen and (max-width: 600px){
+	h1{
+		color:  blue;
+    }
+  }
+
+
+Mobile first then build it
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+Mobile
+tablet
+desktop

@@ -1,0 +1,45 @@
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/100devs-why-react/live
+
+⭐️ Homework Already Due:
+Checklist (items should be updated): https://forms.gle/usiNBEkn6mAZS9Zx7
+(Team Project, Hitlist / Networking, Methods work, and Codewars): https://forms.gle/Y8T57oJNWLSEQjQc8
+
+
+  Homework Due Tuesday (May 25th):
+
+Read through the React Docs (Main Concepts): https://reactjs.org/docs/getting-started.html 
+
+Please research the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 
+
+   ANKI!
+
+   Stream / Blog Team Meetup Friday 6:30pm ET - Let's plan out our schedule and first bits of content + blog reveal!    
+
+  Let's Build An App From Scratchish - BACKEND REVIEW SUNDAY 1:00pm ET 
+
+   Homework Due Sunday (fresh start):
+Checklist (items should be updated): https://forms.gle/usiNBEkn6mAZS9Zx7
+(Team Project, Hitlist / Networking, Methods work, and Codewars): https://forms.gle/Y8T57oJNWLSEQjQc8
+
+ Homework Due Tuesday:
+Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html
+Mentally beak your favorite website down into reusable components! 

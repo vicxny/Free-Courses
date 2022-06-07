@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=LJHIfPOboEE&list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3&index=20 
+
+fetch(url)
+    .then(res => res.json()) // parse response as JSON
+    .then(data => {
+      console.log(data)
+    })
+    .catch(err => {
+        console.log(`error ${err}`)
+    });

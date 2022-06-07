@@ -1,0 +1,11 @@
+https://www.twitch.tv/videos/928428429
+https://www.youtube.com/watch?v=pfYEqzU4ejk&t=2100s 
+
+HOMEWORK DUE (Tues. March 2nd):
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Read / Do: JS Way Ch. 09 (https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
+Read / Do: Eloquent JS Ch. 06 (https://eloquentjavascript.net/06_object.html)
+Do: 7 Codewars
+DO: Professional Checklist (Will be shared during Friday's Class)
+
+https://slides.com/leonnoel/100devs-javascript-oop/

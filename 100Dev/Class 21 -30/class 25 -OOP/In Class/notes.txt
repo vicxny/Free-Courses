@@ -1,0 +1,95 @@
+//Create an espresso machine constructor that makes machines with 4 properties and 3 methods
+
+
+class MakeExpresso{
+    constructor( expressoBrand, expressoModel, expressoColor, expressoPrice){
+        this.brand = expressoBrand
+        this.model = expressoModel
+        this.color = expressoColor
+        this.price = expressoPrice
+    }
+    start(){
+        alert('Machine On')
+    }
+    lock(){
+        alert('Machine Off')
+    }
+}
+
+let DelongiDedica = new MakeExpresso('Delongi','Dedica','Black','$300')
+
+
+// 
+
+let hourlyRate = 250
+let hours = 160
+let taxRate = .35
+
+function calculateProfit(rate, numOfHours, taxes){
+  return rate * numOfHours * (1 - taxes)
+}
+
+function holdForTaxes(profitMade){
+  return hourlyRate * hours - profitMade
+}
+
+let profit = calculateProfit(hourlyRate, hours, taxRate)
+
+let taxesHeld = holdForTaxes(profit)
+
+console.log(profit)
+
+console.log(taxesHeld)
+
+
+//combine data and functionality
+
+let seriousBusinessPerson = {
+    hourlyRate: 250,
+    hours: 160,
+    taxRate: .35,
+    calculateProfit: function() {
+      return this.hourlyRate * this.hours * (1 - this.taxRate)
+    },
+    holdForTaxes: function(){
+        return this.hourlyRate * this.hours-this.profitMade
+    }
+  }
+
+ // Ut Oh...
+  function AgencyContractor(hourlyRate, hours, taxRate){
+    this.hourlyRate = hourlyRate
+    this.hours = hours
+    this.taxRate = taxRate
+    this.calculateProfit = function() {
+      return this.hourlyRate * this.hours * (1 - this.taxRate)
+    }
+    this.invoiceClient = function(){
+      return `Your invoice total is ${this.hourlyRate * this.hours}`
+    }
+  }
+  
+  let leon = new AgencyContractor(250,160,.35)
+  console.log( leon.invoiceClient() ) //40000
+  console.log( leon.hourlyRate ) //250
+  console.log( leon.calculateProfit() ) //26000
+
+
+  //Hide Hourly Rate
+  function AgencyContractor(hourlyRate, hours, taxRate){
+    this.hours = hours
+    this.taxRate = taxRate
+    let rate = hourlyRate
+    let calculateProfit = function() {
+      return rate * this.hours * (1 - this.taxRate)// using rate instead of this.hourlyrate
+    }
+    this.invoiceClient = function(){
+      return `Your invoice total is ${rate * this.hours}`
+    }
+  }
+  
+  let leon = new AgencyContractor(250,160,.35)
+  console.log( leon.invoiceClient() ) //40000
+  console.log( leon.hourlyRate ) //undefined
+  console.log( leon.calculateProfit() ) 
+  //Uncaught TypeError: leon.calculateProfit is not a function

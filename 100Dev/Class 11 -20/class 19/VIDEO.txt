@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=oEdb5wmmAwk 
+
+Homework (Due Thursday - Jan. 28th, 2021): 
+Finish: NASA Photos API Read: Pillars of OOP -Four Pillars of Object Oriented Programming (OOP) 
+Watch / Do: https://youtu.be/PFmuCDHHpwk 
+Watch: https://youtu.be/0fKg7e37bQE​ 
+Do: Four Codewars Fundamentals 
+Want to push?: 
+Read and do the tasks: https://javascript.info/ Whole Chapter - Objects: the basics Complete
+Submit this project: https://github.com/leonnoel/100devs-calculator

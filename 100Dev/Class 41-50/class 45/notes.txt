@@ -1,0 +1,26 @@
+Here are the slides if you would like to follow along: https://slides.com/leonnoel/100devs-the-hunt-continues/live 
+
+Homework Due Tuesday (May 25th):
+
+More React Work Coming Thursday!
+
+Please research the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 

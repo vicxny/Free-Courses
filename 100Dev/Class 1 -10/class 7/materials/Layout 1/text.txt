@@ -1,0 +1,7 @@
+Nav main aside
+
+nav is 10
+main is 50
+aside 40
+
+list style none to remove dots
