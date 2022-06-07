@@ -11,3 +11,8 @@
  [#100Devs cocktailDB Push Homework](https://github.com/vicxny/100devs-cocktaildb-rotate-push)
 
 ## Instructor: [Leon Noel](https://github.com/leonnoel)
+
+
+[cohort 1](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
+
+[cohort 2](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
