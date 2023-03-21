@@ -17,10 +17,16 @@
 
 # Other
 
-[MIT -The Missing Semester of Your CS Education](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
-
 [Coding Interview Univerity](https://github.com/jwasham/coding-interview-university)
 
-[The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
+[How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 
-[]()
+[The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
+
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+[Open Source Society University - Computer Science](https://github.com/ossu/computer-science) 
+
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
+
+[Zero To Code](https://zerotocode.today/) 
