@@ -30,3 +30,14 @@
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
 [Zero To Code](https://zerotocode.today/) 
+
+
+### Interviews
+
+[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
+[Formation](https://formation.dev/)
+
+### Systems Design
+
+[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
