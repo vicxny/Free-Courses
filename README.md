@@ -14,8 +14,17 @@
 
 [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
+## Playlist
 
-# Other
+[The Complete Web Developer Course - Zero to Mastery](https://www.youtube.com/playlist?list=PLL7eX0No1f9kWc-Gi50JGQL8CD873Cxlf)
+
+[The Complete Web Development Bootcamp | Full Stack Web](https://www.youtube.com/playlist?list=PLSWyBcYxXY6heLNCzSyuxj2gYLwAFSysQ)
+
+[Full Stack Web Development Tutorial Course](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
+
+[Full Stack Web Developer Course - HTML/CSS/JavaScript + NodeJS, Express, and MongoDB](https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN)
+
+## Other
 
 [Coding Interview Univerity](https://github.com/jwasham/coding-interview-university)
 
