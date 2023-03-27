@@ -24,6 +24,8 @@
 
 [Full Stack Web Developer Course - HTML/CSS/JavaScript + NodeJS, Express, and MongoDB](https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN)
 
+[Conquering freeCodeCamp's Curriculum](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH)
+
 ## Other
 
 [Coding Interview Univerity](https://github.com/jwasham/coding-interview-university)
