@@ -53,6 +53,4 @@
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
-## Extra
 
-[Full-Length Hacking Courses](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
