@@ -56,6 +56,8 @@
 ### CS50
 
 [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&t=6315s)
+
 [CS50's Introduction to Programming with Python (CS50P) 2022](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+
 [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://www.youtube.com/watch?v=vzGllw18DkA)
 
