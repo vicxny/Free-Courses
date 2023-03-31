@@ -14,6 +14,8 @@
 
 [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
+[Scrimba](https://scrimba.com/allcourses?price=free)
+
 ## Playlist
 
 [The Complete Web Developer Course - Zero to Mastery](https://www.youtube.com/playlist?list=PLL7eX0No1f9kWc-Gi50JGQL8CD873Cxlf)
