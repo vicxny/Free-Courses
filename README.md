@@ -26,6 +26,8 @@
 
 [The Complete Python Bootcamp From Zero to Hero in Python](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKUXIXc8cuGNm6c74VyB-1P) - [Site](https://www.udemy.com/course/complete-python-bootcamp/)
 
+[100 Days of Code The Complete Python Pro Bootcamp for 2022](https://www.youtube.com/playlist?list=PLbLFVIFgh-CyDiQz5RPuP0VQoIAp2m5Bn)
+
 [Python Django - The Practical Guide 2021](https://www.youtube.com/playlist?list=PLBxwSeQlMDNiNt72UmSvKBLsxPgGY_Jy-)
 
 [Conquering freeCodeCamp's Curriculum](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) 
