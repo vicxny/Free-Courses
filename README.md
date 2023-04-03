@@ -18,15 +18,19 @@
 
 ## Playlist
 
-[The Complete Web Developer Course - Zero to Mastery](https://www.youtube.com/playlist?list=PLL7eX0No1f9kWc-Gi50JGQL8CD873Cxlf)
+[The Complete Web Developer Course - Zero to Mastery](https://www.youtube.com/playlist?list=PLL7eX0No1f9kWc-Gi50JGQL8CD873Cxlf) - [Site](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
-[The Complete Web Development Bootcamp | Full Stack Web](https://www.youtube.com/playlist?list=PLSWyBcYxXY6heLNCzSyuxj2gYLwAFSysQ)
+[The Complete Web Development Bootcamp | Full Stack Web](https://www.youtube.com/playlist?list=PLSWyBcYxXY6heLNCzSyuxj2gYLwAFSysQ) - [Site](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-[Full Stack Web Development Tutorial Course](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
+[Full Stack Web Development Tutorial Course](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz) - [Site]()
 
-[Full Stack Web Developer Course - HTML/CSS/JavaScript + NodeJS, Express, and MongoDB](https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN)
+[Full Stack Web Developer Course - HTML/CSS/JavaScript + NodeJS, Express, and MongoDB](https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN) - [Site]()
 
-[Conquering freeCodeCamp's Curriculum](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH)
+[Conquering freeCodeCamp's Curriculum](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) 
+
+[Python and Django Full Stack Web Developer Bootcamp](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv) - [Site](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+
+[The Complete Python Bootcamp From Zero to Hero in Python](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKUXIXc8cuGNm6c74VyB-1P) - [Site](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Other
 
@@ -105,6 +109,7 @@ Harvard - Computer Science:
 - [Algorithms for Big Data (COMPSCI 229r)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) 
 - [Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 
+[Django & React - Full Stack Web App Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
 
 ## [Devops](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
 ### Azure
