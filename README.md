@@ -120,7 +120,7 @@ Harvard - Computer Science:
 ## [Devops](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
 ### Azure
 
-[Microsoft](https://www.coursera.org/instructor/microsoft) - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.google.com/search?q=Microsoft+Azure+Fundamentals+AZ-900+Exam+Prep&sourceid=chrome&ie=UTF-8)
+[Microsoft](https://www.coursera.org/instructor/microsoft) - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.google.com/search?q=Microsoft+Azure+Fundamentals+AZ-900+Exam+Prep&sourceid=chrome&ie=UTF-8) & [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
 
 - [ ] [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 - [ ] [Azure Developer Associate (AZ-204) — Full Course Pass the Exam!](https://www.youtube.com/watch?v=jZx8PMQjobk)
