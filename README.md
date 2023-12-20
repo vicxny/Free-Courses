@@ -10,6 +10,8 @@
 
 [App Academy Open](https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)
 
+[c0d3](https://www.c0d3.com/)
+
 [MDN](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 
 [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
