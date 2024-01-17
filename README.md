@@ -75,6 +75,7 @@
 
 [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://www.youtube.com/watch?v=vzGllw18DkA)
 
+[CS50's Mobile App Development with React Native 2018](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 
 ## Websites
 
